@@ -1,2 +1,2 @@
 # GCI18-NewRepo
-New repository for GCI 2018 Task
+This new GitHub repo is _**amazing!**_ (or so it will be 😂)
